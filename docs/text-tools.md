@@ -589,7 +589,7 @@
 * [NFG's Arcade Font Maker](https://nfggames.com/games/fontmaker/) or [Arcade Font Writer](https://arcade.photonstorm.com/) - Arcade Text Generators
 * [The Ransomizer](https://www.ransomizer.com/) - Ransom Note Style Text
 * [Glitch](https://glitchtextgenerator.com/) - Zalgo Text Generator
-
+* [Cursive] (https://livefontgenerator.com/) - Cursive Text Generator
 ***
 
 ## ▷ Font Customization
@@ -622,3 +622,4 @@
 * [FontGen](https://fontgen.cool/)
 * [FontGenerator.cool](https://fontgenerator.cool/)
 * [Fancy Text Decorator](https://fancytextdecorator.com/)
+* [Live Font Genarator] (https://livefontgenerator.com/)
