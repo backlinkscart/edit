@@ -624,3 +624,4 @@
 * [FontGen](https://fontgen.cool/)
 * [FontGenerator.cool](https://fontgenerator.cool/)
 * [Fancy Text Decorator](https://fancytextdecorator.com/)
+* [Cursive Font Generator](https://livefontgenerator.com/)
